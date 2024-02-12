@@ -7,6 +7,7 @@ Part_1 - Training_Artificial_Neural_Network.ipynb
 
 
 part_2 - Find_no_of_Hidden_Layers_And_Hidden_Neurons_by_Keras_Tuner_library.ipynb   
+
       i) dropout layers can be added in Keras_Tuner
   
       ii) we ask best optimizer from multiple by using - optimizeractivation_choice = hp.Choice('activation_' + str(i), ['sigmoid', 'relu'])
