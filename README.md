@@ -3,10 +3,9 @@
 #### Dataset for Classification- Churn_Modelling.csv
 #### Dataset for Regression - Real_Combine.csv
 
-Part_1 - Training_Artificial_Neural_Network.ipynb
+Part_1 - Training_Artificial_Neural_Network.ipynb (Traning a Artificial Neural Network)
 
-
-part_2 - Find_no_of_Hidden_Layers_And_Hidden_Neurons_by_Keras_Tuner_library.ipynb   
+part_2 - Find_no_of_Hidden_Layers_And_Hidden_Neurons_by_Keras_Tuner_library.ipynb (Hyperparamter tuning using Keras Tuner library)
 
       i) dropout layers can be added in Keras_Tuner
   
